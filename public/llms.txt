@@ -1,0 +1,61 @@
+# ALEA Design — Generative Engine Optimization Map
+
+> A design and home products business.
+
+---
+
+## Pages
+
+### Home
+https://alea-design-6bc20dab.zappy5.app
+Discover expert home and office products that transform your space. Shop our curated collection of minimalist design products today!
+
+### Products
+https://alea-design-6bc20dab.zappy5.app/products
+Browse our complete collection of home and office products. From desk accessories to wall art, find minimalist design pieces for your space.
+
+### Services
+https://alea-design-6bc20dab.zappy5.app/services
+Professional interior design services tailored to your vision. Transform your home or office with ALEA Design's expert consultation and planning.
+
+### About
+https://alea-design-6bc20dab.zappy5.app/about
+Learn about ALEA Design's mission to bring minimalist beauty to homes and offices. Discover our story, values, and commitment to exceptional design.
+
+### Contact
+https://alea-design-6bc20dab.zappy5.app/contact
+Contact ALEA Design for product inquiries, design consultations, or customer support. We're here to help bring your vision to life.
+
+## Legal & Policy
+
+### Privacy Policy
+https://alea-design-6bc20dab.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://alea-design-6bc20dab.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://alea-design-6bc20dab.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ALEA Design
+ALEA Design is a business in the design and home products industry.
+
+## Target Audience
+home and office customers
+
+## Industry
+design and home products
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://alea-design-6bc20dab.zappy5.app/sitemap.xml
+- **Robots.txt**: https://alea-design-6bc20dab.zappy5.app/robots.txt

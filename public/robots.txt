@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alea-design-6bc20dab.zappy5.app/sitemap.xml
